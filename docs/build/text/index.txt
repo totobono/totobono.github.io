@@ -1,0 +1,16 @@
+Welcome to JTI Datamesh Framework’s documentation!
+**************************************************
+
+Note:
+
+  This project is under active development.
+
+
+Indices and tables
+******************
+
+* Index
+
+* Module Index
+
+* Search Page
